@@ -1,0 +1,121 @@
+ABSENTS:
+
+Du
+
+Shi ? Benmansour ?
+
+#########################################
+
+-Alexander Bait
+
+fini
+
+pas union, pas concaténation
+
+déterminisation ok
+
+complémentaire ok
+
+étoile ok 
+
+######################
+
+- Mélina Bessad
+
+pas concaténation
+
+déterminisation ok 
+
+union ok 
+
+étoile ok 
+
+##########################
+
+- Nourdinne Hammachi
+
+déterminisation ok
+
+concaténation ok 
+
+intersection ok
+
+###########################
+
+- Philippe  Ksnatkin
+
+déterminisation ok
+
+complémentaire ok
+
+union ok
+
+étoile marche pas mais ok 
+
+##########################
+
+- Djamila Mohamed / Rhizlene Korar 
+
+Déterminisation ok 
+
+Demandé de l'aide à d'autres bof bof 
+
+Union bof
+
+Intersection bof 
+
+étoile pas fait
+
+#########################
+
+- Rayane MAkhlouf
+
+Pas fait intersection
+
+Code tourne pas pendant soutenance mais description ok 
+
+#####################################################
+
+- Pulval Dady, Anne Silvestre de Sacy
+
+pas union pas étoile
+
+déterminisation ok
+
+#######################################################
+
+- Nada Sahel
+
+pas estComplet
+
+déterminisation marche pas
+
+union description ok
+
+
+##########################################################
+
+- Andre Vicente
+
+Pas étoile, déterminisation pas réussi
+
+déterminisatioin description ok
+
+complémentaire ok
+
+union / intersection ok
+
+concaténation ok
+
+
+
+
+
+
+
+
+
+
+
+
+

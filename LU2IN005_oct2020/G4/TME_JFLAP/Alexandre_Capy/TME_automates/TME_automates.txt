@@ -1,0 +1,43 @@
+Alexandre Capy 3700119
+
+===TME Automates===
+
+===exo1===
+
+q1) les mots validés sont :
+    ba, babb, aaabab, abaabb
+
+===exo2===
+
+q2) les automates A et B ne sont pas équivalents
+
+q3) B est non deterministe car il y a 2 chemins pour b à partir de q2
+
+q4) 2 configurations sont acceptées sur les 5 proposées
+
+q5) teste de aaabab : 2 configurations, 1 rejetée et 1 acceptée
+
+===exo3===
+
+cf fichiers exo3q1-tme.jff  exo3q2-tme.jff  exo3q3-tme.jff  exo3q4-tme.jff  exo3q5-tme.jff
+
+===exo4===
+
+cf fichiers exo4_non_det-tme.jff   pour la version non déterminisé
+         et exo4_det-tme.jff       pour la version déterminisé
+
+===exo5===
+
+cf exo2_det-tme.jff
+
+===exo6===
+
+exo3q1 est non déterministe   cf fichier exo6_det1.jff   pour la version déterminisé
+
+exo3q2 est déterministe
+
+exo3q3 est déterministe
+
+exo3q4 est non déterministe   cf fichier exo6_det4.jff   pour la version déterminisé
+
+exo3q5 est non déterministe   cf fichier exo6_det5.jff   pour la version déterminisé

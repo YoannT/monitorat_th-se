@@ -1,0 +1,51 @@
+CRIMINALITÉ: Bonne répartition du travail 
+
+Chayma: 
+
+Vols seulement
+
+- Random individuals, proba, flic / civil
+
+- influence des voisins prise en compte ou pas
+
+
+Danaelle: 100 habitants , pas de seuil, pas de dispositif de sécurité, seuil à ne pas dépasser (proba de crime). Plusieurs quartiers avec seuils différents. pas de réaction des voisins -> pas intéressant
+
+Justine: réaction des voisins. plus de chance de commettre des crimes quand on en voit. Combien de crimes commis au bout de 30 mois (une itération = 1 mois). Sans policiers: assez disparate, pas de motif clair. introduction des policiers : moins de crimes.
+
+François: interventions
+
+problèmes: sources sociologues ou trop mathématiques. sources trop vastes ou trop précises. basés sur des a priori.
+
+17 soutenance
+
+#################################################
+ÉROSION:
+
+Hayat:
+Activité humaine, vagues, pluie. Quels types de littoraux sont plus impactés?
+Quelles caractéristiques influent sur l'érosion ?
+
+Ahmed: ~smiley shoulder~
+
+Samuel:
+Volume de matière déplacée en tonne par hectares par ans.
+pluviométrie, longueur de la pente, inclinaison de la pente (influe sur la pluie), type de sols, couverture végétale, construction humaine. 
+
+Fonction ligne: Règle de Brunn:
+inclinaison de la pente, sigma : montée du niveau de la mer (mondiale) (2020:3.6mm -> 2050: 50mm / an)
+
+Fonction turtle: mixe fonction matière et fonction ligne
+
+courbes du site intéressantes
+
+hypothèses validées . 
+
+Malek: tenté de mettre les trucs en 3D + dessin de littoral en matplotlib, trop long. 
+
+17 Samuel, 10 Ahmed, 13 Hayat
+
+#################################################
+JEU VIDÉO:
+
+7 vraiment pas bien du tout, pareil pour Omar de toute façon c'est nul

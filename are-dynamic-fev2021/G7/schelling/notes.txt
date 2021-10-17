@@ -1,0 +1,20 @@
+ compréhension de base : 9 points
+* dynamique : 4 points
+* métrique et analyse : 4 points
+* modèle spatial : 4 points
+
+Prénom,Nom
+Malek,Khalfaoui 7 + 1.5 + 1 + 0.5 = 10
+Taha Shafiq,Awan PAS DE NOTE
+Justine,Marques 9 + 4 + 3 + 0.5 = 16.5
+Samuel,Rey 8.5 + 3.5 + 4 + 4 = 20
+Ege,Akcasoy 4 
+Francois,Demotes-Mainard 8 + 2 = 10
+Omar,Khadr 8 + 3 + 0.5 = 11.5
+Pablo,Perez 0
+Hayat,Rami 0
+Ahmed,Shindala 20 
+Joseph,Marchand 0 
+Zeyao,Huang 5
+Danaelle,Preville 8.5 + 3 + 2 + 0 = 13.5
+Chayma,Rouaa: 9 + 3 + 1 + 0.5  = 13.5

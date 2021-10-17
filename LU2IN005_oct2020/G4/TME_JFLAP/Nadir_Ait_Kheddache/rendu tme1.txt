@@ -1,0 +1,12 @@
+exercice 2 : 
+1. 
+2. pas equivalent
+3. pas deterministe
+
+Exercice 3 :
+1. tout les language sont reconnue,
+2.
+
+Exercice 4 : 
+1. L'automate n'est pas deterministe
+2. 

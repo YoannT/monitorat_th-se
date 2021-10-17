@@ -1,0 +1,25 @@
+ Cheikhna_Diagana: 3 + 3 (+ 2)
+ Loane_Forest
+ Nadia_El-Atia
+ Thomas_Dondon
+ Zlatan_Gojak
+ Adelin-Flaviu_Ferche 
+ Alexandre_Capy 
+ Barka_Abkress 
+ BESEVIC_Ivan
+ Jean-Laurent_Albertini
+ Julie_Gaydon 
+ Kenza_Bouaicha 
+ Laurent_Grondin
+ Mohamed_Diallo
+ Myriame_Bchir
+ Nadir_Ait_Kheddache
+
+- Exo 1 : 3 points pour automate correcte
+- Exo 2 : 3 points pour automate correcte + 0.5 points bonus pour chacune des
+  4 questions s'ils ont répondu dans un fichier texte à côté
+- Exo 3 : 2 points pour chacun des automate correcte (* 5)
+- Exo 4 : 2 points pour le déterminisé correct
+- Exo 5 : 2 points pour le déterminisé correct
+- Exo 6 : chacun des déterminisés correct (ou une remarque dans le petit
+  rapport qui dit que l'automate était déjà déterministe) rapporte un point bonus

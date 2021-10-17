@@ -1,0 +1,32 @@
+BESEVIC Ivan
+
+J'ai fais tout ce qui a été demandé de faire pendant le tme.
+
+Exo 1
+Q1
+En utilisant les 3 menus indiqués
+ba, babb, aaababa, abaabb sont des mots acceptés par l'automate A de l'exercice 1.
+En revanche abaabaaab, aaabab ont été rejetant pour l'automate.
+
+Exo 2
+Q2
+Les automates A et B ne sont pas équivalents d'apres JFLAPs
+
+Q3
+L'automate B n'est pas deterministe d'après JFLAPS,
+en effet 2.b = 2 et 2.b = 1 avec 1 != 2.
+
+Q4
+Le mot ababbba est accepté par l'automate B.
+Le step by state revele qu'il y a deux chemins (trace) qui permet au mot d'être acceptant par l'automate.
+cf les cinq trace en image dans le dossier.
+
+Q5
+Le mot ababbbaababbbaababbba est accepté par l'automate B.
+Je remarque que nombre de trace possible pour un tel mot
+est élévé.
+
+EXO 4
+L'automate A n'est pas deterministe car 0.a = 1 et 0.a = 0
+avec 0 != 1
+Et JFLAPs me le confirme

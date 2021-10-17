@@ -1,0 +1,9 @@
+Gestion club sport
+- Classe sport: tarif, horaires
+- Classe Joueur: 
+- Classe employé: nom, id, poste, salaire, numéro, adresse
+- Sponsor: organisme, prix, 
+- Prix: nom, date, prix
+- Classe infrastructure: salles, salle par sport
+
+- Méthodes: asbtraite: remporter prix: string avec nom du prix

@@ -1,0 +1,139 @@
+- Thomas, Amélie: Voleyball -> bien
+
+4 ou 8 équipes avec simulation
+noms générés aléatoirement
+6 rôles spécifiques
+
+héritage: Joueur -> Attaque -> Central
+
+static: Aléa
+
+interface: AttributJoueur
+
+constructeur copie: Liste team / tournoi -> sous branches
+
+Exception: NumberFormatException LimiteNbTeam
+
+Singleton: Alea -> pas bon 
+
+#######################################
+
+- Léane, Juba, Mohamed: Tournoi Baki -> bien
+
+Personne -> ((Fighter -> Legende, Moderne), Spectateur, Arbitre)
+Singleton: Arbitre
+Interface: Technique
+Exception: Pv inférieurs à 0
+Constructeur copie: Spectateur
+Static: esquive / pv_negatif
+
+#######################################
+
+- Assia / Souveda: Match Handball dans un club  -> Bof
+
+Inscriptions et matchs
+Personne -> Joueur/ Arbitre -> 
+Static: Club -> bof
+Interface: Analyse
+Clone: deux clubs 
+Exception: 
+Singleton: non
+
+#############################################
+
+- Louise: Gestion club multisport -> bien
+
+Abonnements, recette, matchs, 6 sports
+
+Static: Explications
+Interface: Adulte, Enfant
+Exception: ErrAge, Errequipe
+Sport -> SportInterieur -> foot
+Singleton: Gestion
+Clone: Personne 
+
+##################################
+
+- Maxime / Lucas: Football Manager
+
+Sauvegarde
+Singleton: Tournoi
+Static: Main 
+Interface:
+Exception: 
+Clone: Equipe
+
+######################################
+
+- Ream / Hichem : Equitation
+
+Singleton: indomptable
+Exceptions ok 
+Clone ok ?
+Static ok
+Interface
+
+
+
+#####################################
+
+- Jérémy, Chan Yeong, Fares: Ping Pong -> pas mal
+
+Static pari
+Joueur > Pro > homme/femme
+Exception: Classement pro
+Singleton: Terrain
+Clone: balle
+
+######################################
+
+- Oumaima: gestion club sport  -> Marche pas 
+
+
+####################################
+
+- Lucien Fouad, match de foot -> marche pas
+
+########################################
+
+- Badr Mouataz: Tournoi de Foot -> bof, matchs random, juste classement
+
+
+###########################################
+
+- Amy: Club sportif cyclisme, automobile -> bof à première vue
+
+Courses
+
+###########################################
+
+- Nawelle: Gestion club volley -> pas mal
+
+###########################################
+
+-Firmin : Jeux Olympiques -> pas mal
+
+############################################
+
+- Luo Yukai: Football -> bof matchs aléatoires
+
+Dopage
+
+############################################
+
+-Gabriel: Tennis -> Pas mal
+
+###########################################
+
+-Yilu : compétition Basket -> pas mal
+
+###########################################
+
+- Salomon: Quidditch -> pas mal 
+
+##############################################
+
+- Diego: Water Polo -> pas mal
+
+
+Static: Score

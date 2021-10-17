@@ -1,0 +1,68 @@
+Ex 1 :
+
+01. Multiple run :
+   ba	        Accept
+   babb	        Accept
+   aaabab	Reject
+   aaababa	Accept
+   abaabb	Accept
+   abaabaaab	Reject
+   
+   Même resultats avec les autres modes.
+  
+Ex 2 :
+   
+2. Les deux automates ne sont pas equivalents.
+3. L'automate n'est pas deterministe en q2, avec les deux options pour b.
+4. Deux des cinq configurations sont acceptées.
+5. acc	        Reject
+   abcabccb	Reject
+   ab	        Reject
+   aaaaa	Reject
+   baccabbcb	Reject
+   bbbb	        Accept
+   aababab	Accept
+   abaaabb	Accept 
+   
+   
+Ex 3 :
+  
+1. a	Accept              b	Reject
+   ab	Accept              cc	Reject
+   ca	Accept              bca	Reject
+   cab	Accept              aaa	Reject
+   acc	Accept	                Reject
+  
+2.
+
+3. aaa		Accept
+   a		Accept
+   ba		Accept
+   abbbaaa	Reject
+   abcabcab	Accept
+   abcabcabcacb	Reject
+   bbbb		Reject
+   cabbbca	Reject
+   
+4. ab			Accept
+   abcbbacc		Accept
+   cbcacbacab		Accept
+   acbaccacba		Reject
+   aaabccabab		Accept
+   cbacbaccacacba	Reject
+   aaaa			Reject
+   babab		Accept
+   
+5. bbb			Reject
+   ccbacab		Accept
+   abb			Accept
+   abc			Reject
+   caaaaabba		Reject
+   aaaa			Reject
+   bbbb			Reject
+   ccaccbbbaabbbb	Accept
+   abbbcacb		Accept
+   ab			Accept
+   bbcbaaabcaccb	Accept
+   
+   

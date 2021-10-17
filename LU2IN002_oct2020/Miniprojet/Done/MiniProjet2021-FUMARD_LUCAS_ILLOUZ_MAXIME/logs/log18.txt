@@ -1,0 +1,320 @@
+Une ville a ete cree en (9,1), par un habitant qui vient de construire sa maison
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |Bois |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |Bois |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |Bois |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 15 cases occupées.
+Meteo du jour : Il fait 9C et il fait beau
+Quelqu'un se deplace en (8,0). C'est un humain qui transporte rien
+Quelqu'un se deplace en (9,1). C'est un humain qui transporte Bois[id:2 quantite: 9]  en position (8, 0)
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |Bois |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |Bois |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 14 cases occupées.
+Meteo du jour : Il fait 49C et il fait beau (trop chaud)
+Une maison en bois vient d'etre construite
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |Bois |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |Bois |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 14 cases occupées.
+Meteo du jour : Il fait 45C et il y a une eruption volcanique (trop chaud)
+Quelqu'un se deplace en (7,1). C'est un humain qui transporte rien
+Quelqu'un se deplace en (9,1). C'est un humain qui transporte Bois[id:3 quantite: 6]  en position (7, 1)
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |Bois |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 13 cases occupées.
+Meteo du jour : Il fait 38C et il fait beau (trop chaud)
+Quelqu'un se deplace en (8,4). C'est un humain qui transporte rien
+Quelqu'un se deplace en (9,1). C'est un humain qui transporte Bois[id:1 quantite: 9]  en position (8, 4)
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 12 cases occupées.
+Meteo du jour : Il fait 43C et il y a un orage (trop chaud)
+Une maison en bois vient d'etre construite
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 12 cases occupées.
+Meteo du jour : Il fait -4C et il fait beau (trop froid)
+Une maison en bois vient d'etre construite
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 12 cases occupées.
+Meteo du jour : Il fait 42C et il y a un orage (trop chaud)
+L'humain a ete ajoute a la ville
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |Charb|     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 12 cases occupées.
+Meteo du jour : Il fait 37C et il fait beau (trop chaud)
+C'est un humain qui transporte rien a voulu se deplacer, mais la meteo a eu raison de lui
+Quelqu'un se deplace en (6,3). C'est un humain qui transporte rien
+Quelqu'un se deplace en (9,1). C'est un humain qui transporte Charbon[id:15 quantite: 10]  en position (6, 3)
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 11 cases occupées.
+Meteo du jour : Il fait -9C et il fait beau (trop froid)
+C'est un humain qui transporte rien a voulu se deplacer, mais la meteo a eu raison de lui
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+Une maison n'a pas assez d'electricite
+Une maison n'a pas assez d'eau
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|Fer  |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |Pierr|     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Bois |     |     |     |Pierr|Fer  |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |     |     |     |     |     |     |Charb|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |Fer  |     |     |     |     |     |     |     |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Charb|     |     |     |     |     |Pierr|
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+|     |     |     |Pierr|     |     |     |     |Fer  |     |
+:-----:-----:-----:-----:-----:-----:-----:-----:-----:-----:
+
+Informations sur le terrain:
+Terrain de 10x10 cases: il y a 11 cases occupées.
+Il n'y a plus d'habitants dans la ville
+Cette ville abrite 0 habitants
+Cette ville est en (9,1), elle a 4 batiments : 4 maisons, 0 centrales a charbon, 0 pompes a eau
+Bois[id:17 quantite: 0]  n'est pas sur le terrain.;Pierre[id:18 quantite: 0]  n'est pas sur le terrain.;Fer[id:19 quantite: 0]  n'est pas sur le terrain.;Charbon[id:20 quantite: 10]  n'est pas sur le terrain.;Eau[id:21 quantite: 0]  n'est pas sur le terrain.;Electricite[id:22 quantite: 0]  n'est pas sur le terrain.;Dechet[id:23 quantite: 0]  n'est pas sur le terrain.;

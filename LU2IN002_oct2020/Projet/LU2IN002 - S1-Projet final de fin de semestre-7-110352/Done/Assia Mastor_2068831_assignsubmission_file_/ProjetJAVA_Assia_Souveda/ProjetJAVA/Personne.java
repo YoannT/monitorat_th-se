@@ -1,0 +1,1 @@
+public abstract class Personne {	protected String nom;	protected int age;	protected Personne (String nom, int age){		this.nom=nom;		this.age=age;	}	public abstract String toString();}

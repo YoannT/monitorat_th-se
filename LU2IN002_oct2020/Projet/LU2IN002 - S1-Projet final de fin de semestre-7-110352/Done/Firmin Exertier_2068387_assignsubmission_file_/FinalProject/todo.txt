@@ -1,0 +1,28 @@
+ko boxe / coups generes aleatoirement en mode commentaire de match /deroulement   https://www.olympicchannel.com/fr/stories/news/detail/boxing-qualification-tokyo-2020-olympics/
+
+judo salut / deroulement  / systeme de repechage si g du temps aka déterminer commment trouver medaiile de bronze
+https://pekin.franceolympique.com/pekin/art/9/549.shtml#:~:text=D%C3%A9roulement%20de%20la%20comp%C3%A9tition,%2C%20B1%2C%20A2%2C%20B2
+.
+
+jo deroulement
+
+fonction combattre utiliser loi normale
+
+ajouter quota pour les participants ->> un nb limité de participant peut accéder à la compet ??? à décider pck sino programme surchargé
+
+
+pour le pb de creation d'objet dynamique
+https://stackoverflow.com/questions/13868986/dynamically-create-an-object-in-java-from-a-class-name-and-set-class-fields-by-u
+
+
+gymn  AJOUTER CRITICAL FAILURE 
+
+Rythmique https://en.wikipedia.org/wiki/Gymnastics_at_the_2016_Summer_Olympics_%E2%80%93_Women%27s_rhythmic_individual_all-around
+
+Artistique https://www.nbcolympics.com/gymnastics/
+
+Trampoline https://www.gymnastics.sport/publicdir/rules/files/en_TRA%20CoP%202017-2020.pdf
+
+
+wc -l *.java
+

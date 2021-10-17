@@ -1,0 +1,272 @@
+Bienvenue dans les logs des JO prenant place a Paris en 2323
+Liste de pays :
+USA
+Allemagne
+Angleterre
+France
+Italie
+Chine
+Australie
+Suède
+Turquie
+Kenya
+Brésil
+Ukraine
+Iran
+
+
+
+Liste des competitions et leurs dates
+Boxe 23/23/2323
+Judo 23/23/2323
+Lutte 23/23/2323
+Taekwondo 24/23/2323
+Trampoline 24/23/2323
+GymnastiqueRythmique 24/23/2323
+GymnastiqueArtistique 25/23/2323
+CompetitionCourse 25/23/2323
+CompetitionSaut 25/23/2323
+CompetitionLancer 26/23/2323
+TournoiFoot 26/23/2323
+TournoiBasket 26/23/2323
+TournoiHandball 27/23/2323
+
+Competition de boxe du 23/23/2323
+
+Qualifies des groupes :
+53 Allemagne Garvin SEYMOUR
+192 Italie Westleigh ALBRIGHT
+380 Turquie Aldo LUTZ
+470 Brésil Lem KEMP
+Qualifies pour la finale : 
+53 Allemagne Garvin SEYMOUR
+470 Brésil Lem KEMP
+Resultat de la petite finale (medaille de bronze) :
+380 Turquie Aldo LUTZ
+Medaille d'argent :
+53 Allemagne Garvin SEYMOUR
+Medaille d'or :
+470 Brésil Lem KEMP
+
+Competition de judo du 23/23/2323
+
+Qualifies des groupes :
+58 Allemagne Kirk QUINTANA
+524 Ukraine Benson GIVENS
+567 Iran Ambrosius FERRIS
+474 Brésil Obadias MERCADO
+Qualifies pour la finale : 
+524 Ukraine Benson GIVENS
+567 Iran Ambrosius FERRIS
+Resultat de la petite finale (medaille de bronze) :
+474 Brésil Obadias MERCADO
+Medaille d'argent :
+524 Ukraine Benson GIVENS
+Medaille d'or :
+567 Iran Ambrosius FERRIS
+
+Competition de lutte du 23/23/2323
+
+Qualifies des groupes :
+385 Turquie Clayton WASHINGTON
+339 Suède Casey WOODRUFF
+570 Iran Chevy HORNE
+242 Chine Beowulf SNELL
+Qualifies pour la finale : 
+385 Turquie Clayton WASHINGTON
+570 Iran Chevy HORNE
+Resultat de la petite finale (medaille de bronze) :
+339 Suède Casey WOODRUFF
+Medaille d'argent :
+242 Chine Beowulf SNELL
+Medaille d'or :
+570 Iran Chevy HORNE
+
+Competition de Taekwondo du 24/23/2323
+
+Qualifies des groupes :
+481 Brésil Johann ARROYO
+9 USA Baxter HASTINGS
+10 USA Warde FRANK
+572 Iran Park CAMP
+Qualifies pour la finale : 
+481 Brésil Johann ARROYO
+572 Iran Park CAMP
+Resultat de la petite finale (medaille de bronze) :
+10 USA Warde FRANK
+Medaille d'argent :
+481 Brésil Johann ARROYO
+Medaille d'or :
+572 Iran Park CAMP
+
+Competition de Trampoline du 24/23/2323
+
+Qualifies pour la finale :
+484 Brésil Karel HAND
+482 Brésil Geo MORROW
+13 USA Bartlet CHRISTIANSEN
+249 Chine Sven MCDOWELL
+296 Australie Felipe WILKINSON
+61 Allemagne Andonis BETTS
+156 France Randie NORTON
+247 Chine Glen DICKEY
+Medaille de bronze :
+13 USA Bartlet CHRISTIANSEN
+Medaille d'argent :
+482 Brésil Geo MORROW
+Medaille d'or :
+484 Brésil Karel HAND
+
+Competition de Gymnastique Rythmique du 24/23/2323
+
+Qualifies pour la finale :
+63 Allemagne Woodie WAGNER
+18 USA Cam MERCER
+17 USA Nevile FELIX
+16 USA Patrik BOND
+577 Iran Piggy WALTERS
+107 Angleterre Ronald GOODE
+109 Angleterre Ulysses CASE
+299 Australie Kane GRACE
+Medaille de bronze :
+17 USA Nevile FELIX
+Medaille d'argent :
+18 USA Cam MERCER
+Medaille d'or :
+63 Allemagne Woodie WAGNER
+
+Competition de Gymnastique Artistique du 25/23/2323
+
+Qualifies pour la finale :
+300 Australie Gabriel CHANDLER
+436 Kenya Ximenes HATFIELD
+348 Suède Michail BOWEN
+160 France Davidson LAIRD
+438 Kenya Anselm AGUILAR
+204 Italie Cliff DOUGHERTY
+256 Chine Luciano HELTON
+533 Ukraine Osgood FARR
+Medaille de bronze :
+348 Suède Michail BOWEN
+Medaille d'argent :
+436 Kenya Ximenes HATFIELD
+Medaille d'or :
+300 Australie Gabriel CHANDLER
+
+Competition de course du 25/23/2323
+
+Qualifies pour la finale :
+354 Suède Dan MORRISON
+583 Iran Miguel GRADY
+396 Turquie Duffy SCHMIDT
+68 Allemagne Redmond KILGORE
+581 Iran Marcelo SAUNDERS
+582 Iran Hezekiah ROBLES
+161 France Sayers BERNARD
+112 Angleterre Bayard WISEMAN
+Medaille de bronze :
+396 Turquie Duffy SCHMIDT
+Medaille d'argent :
+583 Iran Miguel GRADY
+Medaille d'or :
+354 Suède Dan MORRISON
+
+Competition de saut du 25/23/2323
+
+Qualifies pour la finale :
+398 Turquie Bogart SIMON
+23 USA Uriel COHEN
+24 USA Jerrold HATCHER
+441 Kenya Mustafa HERRING
+442 Kenya Charleton HACKETT
+207 Italie Clay HOSKINS
+209 Italie Tan MAHONEY
+210 Italie Hercules CAMPBELL
+Medaille de bronze :
+24 USA Jerrold HATCHER
+Medaille d'argent :
+23 USA Uriel COHEN
+Medaille d'or :
+398 Turquie Bogart SIMON
+
+Competition de lancer du 26/23/2323
+
+Qualifies pour la finale :
+445 Kenya Ludvig DUNBAR
+495 Brésil Mikel KRAMER
+214 Italie Dean MOSER
+493 Brésil Webb COOPER
+446 Kenya Derrick HOOKS
+400 Turquie Beaufort BARLOW
+494 Brésil Demetrius BYRNE
+26 USA Morris AARON
+Medaille de bronze :
+214 Italie Dean MOSER
+Medaille d'argent :
+495 Brésil Mikel KRAMER
+Medaille d'or :
+445 Kenya Ludvig DUNBAR
+
+Tournoi de foot du 26/23/2323
+
+Qualifies des groupes :
+Brésil
+Allemagne
+Australie
+Italie
+Qualifies pour la finale : 
+Brésil
+Australie
+Resultat de la petite finale (medaille de bronze) :
+Allemagne
+Medaille d'argent :
+Brésil
+Medaille d'or :
+Australie
+Tournoi de basket du 26/23/2323
+
+Qualifies des groupes :
+Turquie
+USA
+Italie
+France
+Qualifies pour la finale : 
+USA
+France
+Resultat de la petite finale (medaille de bronze) :
+Italie
+Medaille d'argent :
+France
+Medaille d'or :
+USA
+
+Tournoi de Handball du 27/23/2323
+
+Qualifies des groupes :
+Turquie
+USA
+Ukraine
+Chine
+Qualifies pour la finale : 
+Turquie
+Chine
+Resultat de la petite finale (medaille de bronze) :
+Ukraine
+Medaille d'argent :
+Turquie
+Medaille d'or :
+Chine
+
+Turquie 3 1 2
+Brésil 2 3 1
+Allemagne 2 1 0
+USA 1 3 5
+Italie 1 1 1
+Ukraine 1 1 0
+Kenya 1 1 0
+Suède 1 0 2
+Australie 1 0 1
+Chine 0 1 1
+Iran 0 1 0
+France 0 0 0
+Angleterre 0 0 0

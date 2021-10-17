@@ -1,0 +1,10 @@
+- Diagana Ibrahim
+
+Déterminisation: a l'air de l'avoir fait mais a du mal à expliquer
+
+Étoile: capable d'expliquer l'algo mais pas vraiment ce qu'on attend de la fonction
+
+Complémentaire: a du mal à expliquer
+
+Union, concaténation, intersection pas fait
+############################################################

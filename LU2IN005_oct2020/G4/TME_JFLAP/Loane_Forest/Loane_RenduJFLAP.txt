@@ -1,0 +1,65 @@
+Loane Forest - 3804605
+TME Langages et Automates sur JFLAP - Commentaires et travail accompli
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+2. Création d'automates
+-------------------------------------------------------------------------------
+EX1
+1. Les mots acceptés par l'automate 1 sont ba, babb, aaababa et abaab. 
+
+EX2
+2. Les automates A et B ne sont pas équivalents. 
+3. Il est bien indiqué que B n'est pas déterministe: l'état 2 est grisé, car deux choix
+   sont possibles pour b. 
+4. A chaque nouvelle étape, dans la fenêtre en bas, toutes les possibilités sont montrées.
+   A la fin, celles qui sont acceptantes sont surlignées en vert. En affichant la trace,
+   on peut observer la lecture de l'automate selon chaque possibilité. 
+5. On teste les mêmes mots que pour A avec Input/Fast Run, qui lui affiche la trace dès 
+   qu'il trouve une configuration acceptante. 
+
+EX3
+2. Quelques difficultés avec la compréhension du langage acceptant pour celui-ci. J'ai
+   compris [a(b+c)*abc]* comme "tous les mots ayant pour motif une sucession de ab avec
+   autant de b souhaités ou des ac avec autant de c souhaités; ce motif se terminant par
+   abc. Il peut être répété autant de fois que souhaité. 
+   De ce fait, les mots comme acababcacccccabbbbbabcacabc sont acceptés, mais ac ou ab
+   ou abc ou abaabc ne le sont pas. 
+   Je ne suis pas sûre du tout de ma compréhension de cet énoncé. 
+
+3. Déterminisation d'automates
+-------------------------------------------------------------------------------
+EX4
+1. Pas de difficultés à la déterminisation (fichier exo4.1_tme.jff). 
+
+EX5
+1. Pas de difficultés à la déterminisation.
+
+EX6
+1. Les automates non-déterministes de l'exercice 3 est l'automate 2 uniquement. Je l'ai
+   déterminisé en exo6(3.2)_tme.jff. 
+
+4. Minimistation d'automates
+-------------------------------------------------------------------------------
+EX7
+1. Quelques difficultés de compréhension de l'algorithme propose: ce que j'ai compris
+   est que l'on pouvait créer de nouveaux ensembles d'étant en observant les transitions
+   pour chacun des éléments de l'alphabet. Si ces transitions menaient dans un état qui
+   était hors de l'ensemble de départ, alors on pouvait faire une séparation. Cela a 
+   semblé être la compréhension correcte dans la suite de l'exercice. 
+
+EX8
+1. Pas de difficultés à la miniaturisation (exo8.m_tme.jff).
+
+EX9
+1. Pas de difficultés à la miniaturisation (exo9.1.m_tme.jff et exo9.2.m_tme.jff).
+
+EX8
+1. Pas de difficultés à la miniaturisation (exo10.4_tme.jff) et déterminisation
+   (exo10.3_tme.jff)
+
+5. A découvrir seul
+-------------------------------------------------------------------------------
+N'ayant pas encore réalisé les exercices, je n'ai pas encore expérimenté les nouvelles
+fonctionnalités de JFLAP décrites. 
+

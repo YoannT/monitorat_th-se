@@ -1,0 +1,134 @@
+@startuml
+
+!define DARKBLUE
+!include https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
+class Arbitre {
+    private String nom;
+    private String prenom;
+    private String nationalite;
+    private int age;
+    Arbitre()
+    +static ManagerScore s1;
+    boolean random()
+    void lancer(Joueur j1,Joueur j2,Terrain t1,ManagerScore s1)
+    void echange(Terrain t1,Personne j1,Personne j2,ManagerScore s1)
+    boolean faute(Terrain t1,Personne j1,Personne j2,ManagerScore s1)
+    public String getName()
+    void presentation()
+    }
+
+
+
+
+class Case{
+    boolean service;
+    boolean nonservice;
+    int x;
+    int y;
+    private String emoji;
+    Case(boolean service,boolean nonservice,int x,int y,String emoji)
+    String getEmoji()
+    void setEmoji
+    }
+   class Jeu {
+   void main(String[] args)
+   }
+    class Joueur extends Personne{
+       private String nom;
+       private String prenom;
+       private String nationalite;
+       private int age;
+       private int classementAtp;
+       private int xp;
+       private int taille;
+       private int poids;
+       private boolean service;
+       //Score
+       int points;
+       int jeu;
+       int set;
+       boolean avantage;
+       int tiebreak;
+       private boolean haveball;
+       Joueur(String prenom,String nom,String nationalite,int age,int taille,boolean service)
+       void presentation()
+       void presentation(int i)
+       int getAge()
+       static Joueur choixJoueur()
+       static Joueur choixJoueurAlea()
+       int  getXp()
+       String getName()
+       String getNom()
+       void setService(boolean service)
+       boolean Haveball()
+       void setHaveball(boolean haveball)
+       void setSet(int set)
+       void setJeu(int jeu)
+       void setPoints(int points)
+       int getJeu()
+       int getPoints()
+       int getSet()
+
+
+
+
+
+
+       }
+
+       abstract class  Personne{
+
+
+           public abstract String getName();
+           public abstract void presentation(int i);
+           public abstract void presentation();
+           public abstract int getXp();
+           public abstract boolean getService();
+           public abstract boolean Haveball();
+
+
+
+
+
+       }
+       class  ManagerScore {
+           Personne j1;
+           Personne j2;
+           Personne winner=null;
+           ManagerScore(Personne j1, Personne j2)
+           void afficherScore(Joueur j1, Joueur j2)
+           void gestionScore1(Joueur gagnant, Joueur perdant)
+           static void tiebreak(Joueur gagnant, Joueur perdant)
+           static void tiebreak(Joueur gagnant, Joueur perdant)
+           void manageStatEnd(Joueur j1,Joueur j2)
+           }
+           note left: Cette classe permet de gerer le score entre deux joueurs.
+class Spectateurs extends Personne{
+    public String applaudissement;
+    Spectateurs(String prenom, String nom, String nationalite, int age)
+    void getApplaudissement()
+    }
+    class Terrain{
+        private static final int tailleL= 14 ;      //nbLignes
+
+        private static final int tailleC= 12 ;     //nbColonnes
+
+
+
+        Case [][] terrain=null;
+        String matchType;
+        void afficherTerrain()
+        void inside()
+        void outside(int resL,int resC)
+        boolean isInside(int l,int c)
+        Case[][] getTerrain()
+        static int getTailleL()
+        static int getTailleC()
+
+
+    }
+
+
+
+@enduml
+

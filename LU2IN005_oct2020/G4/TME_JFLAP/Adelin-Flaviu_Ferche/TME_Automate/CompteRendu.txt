@@ -1,0 +1,20 @@
+FERCHE Adelin-Flaviu 3800655
+
+EXERCICE 1
+
+1) Les mots ba, babb, aaababa et abaabb sont acceptés par l'automate alors que les mots aaabab et abaabaaab sont rejetés
+
+EXERCICE 2
+
+2) Les automates ne sont pas équivalents
+
+3) L'automate B n'est pas déterministe car il y a 2 chemins possibles pour b à partir de l'état final q2
+
+4) 2 lectures possibles du mot ababbba sont acceptées et 3 lectures possibles sont rejetées par l'automate
+
+5) aaabab et abaabaaab ne sont pas accepter par l'automate
+
+EXERCICE 6 
+
+dans l'exercice 2, les automates de la question 1,4 et 5 ne sont pas déterministes
+

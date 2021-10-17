@@ -1,0 +1,272 @@
+Bienvenue dans les logs des JO prenant place a Paris en 2024
+Liste de pays :
+USA
+Allemagne
+Angleterre
+France
+Italie
+Chine
+Australie
+Suède
+Turquie
+Kenya
+Brésil
+Ukraine
+Iran
+
+
+
+Liste des competitions et leurs dates
+Boxe 26/07/2024
+Judo 26/07/2024
+Lutte 26/07/2024
+Taekwondo 27/07/2024
+Trampoline 27/07/2024
+GymnastiqueRythmique 27/07/2024
+GymnastiqueArtistique 28/07/2024
+CompetitionCourse 28/07/2024
+CompetitionSaut 28/07/2024
+CompetitionLancer 29/07/2024
+TournoiFoot 29/07/2024
+TournoiBasket 29/07/2024
+TournoiHandball 30/07/2024
+
+Competition de boxe du 26/07/2024
+
+Qualifies des groupes :
+46 Allemagne Orazio HARRINGTON
+189 Italie Townsend RITCHIE
+329 Suède Louie PACHECO
+520 Ukraine Anatol WOLFE
+Qualifies pour la finale : 
+189 Italie Townsend RITCHIE
+329 Suède Louie PACHECO
+Resultat de la petite finale (medaille de bronze) :
+46 Allemagne Orazio HARRINGTON
+Medaille d'argent :
+520 Ukraine Anatol WOLFE
+Medaille d'or :
+329 Suède Louie PACHECO
+
+Competition de judo du 26/07/2024
+
+Qualifies des groupes :
+192 Italie Thad WHALEY
+6 USA Tome JACKSON
+144 France Dave BARKER
+95 Angleterre Zachariah MCGRATH
+Qualifies pour la finale : 
+6 USA Tome JACKSON
+144 France Dave BARKER
+Resultat de la petite finale (medaille de bronze) :
+192 Italie Thad WHALEY
+Medaille d'argent :
+6 USA Tome JACKSON
+Medaille d'or :
+144 France Dave BARKER
+
+Competition de lutte du 26/07/2024
+
+Qualifies des groupes :
+524 Ukraine Upton BUTLER
+10 USA Mort TUCKER
+432 Kenya Reuben ADKINS
+285 Australie Shimon BUNCH
+Qualifies pour la finale : 
+10 USA Mort TUCKER
+432 Kenya Reuben ADKINS
+Resultat de la petite finale (medaille de bronze) :
+524 Ukraine Upton BUTLER
+Medaille d'argent :
+285 Australie Shimon BUNCH
+Medaille d'or :
+432 Kenya Reuben ADKINS
+
+Competition de Taekwondo du 27/07/2024
+
+Qualifies des groupes :
+102 Angleterre Filmore GOLDEN
+51 Allemagne Mathew FELDMAN
+148 France Romeo GALVAN
+241 Chine Hart LESTER
+Qualifies pour la finale : 
+51 Allemagne Mathew FELDMAN
+241 Chine Hart LESTER
+Resultat de la petite finale (medaille de bronze) :
+102 Angleterre Filmore GOLDEN
+Medaille d'argent :
+148 France Romeo GALVAN
+Medaille d'or :
+241 Chine Hart LESTER
+
+Competition de Trampoline du 27/07/2024
+
+Qualifies pour la finale :
+383 Turquie Mikel DUARTE
+154 France Jackson GLASS
+199 Italie Ronald CALHOUN
+198 Italie Peyter WALDRON
+531 Ukraine Nicky BRAUN
+246 Chine Carlo HUYNH
+288 Australie Alphonse CRAIN
+437 Kenya Chet HOLLIS
+Medaille de bronze :
+199 Italie Ronald CALHOUN
+Medaille d'argent :
+154 France Jackson GLASS
+Medaille d'or :
+383 Turquie Mikel DUARTE
+
+Competition de Gymnastique Rythmique du 27/07/2024
+
+Qualifies pour la finale :
+340 Suède Renault PARSON
+586 Iran Francis BASSETT
+17 USA Leonerd BRANDON
+157 France Thorsten MORROW
+156 France Gerard ORTEGA
+534 Ukraine Tobias ERICKSON
+584 Iran Clifton SHEEHAN
+587 Iran Teodoor LAND
+Medaille de bronze :
+17 USA Leonerd BRANDON
+Medaille d'argent :
+586 Iran Francis BASSETT
+Medaille d'or :
+340 Suède Renault PARSON
+
+Competition de Gymnastique Artistique du 28/07/2024
+
+Qualifies pour la finale :
+484 Brésil Quint MAYFIELD
+388 Turquie Eugen BRITTON
+588 Iran Conrad SHARP
+204 Italie Avery HERNDON
+537 Ukraine Ravil MARIN
+389 Turquie Shem CRABTREE
+390 Turquie Austen HICKEY
+18 USA Jeramie REYNOLDS
+Medaille de bronze :
+588 Iran Conrad SHARP
+Medaille d'argent :
+388 Turquie Eugen BRITTON
+Medaille d'or :
+484 Brésil Quint MAYFIELD
+
+Competition de course du 28/07/2024
+
+Qualifies pour la finale :
+63 Allemagne Barton BRENNAN
+345 Suède Ferd PITTS
+591 Iran Benji BULLOCK
+298 Australie Len HOBBS
+112 Angleterre Klaus COFFMAN
+297 Australie Pasquale CHANEY
+444 Kenya Jens VILLANUEVA
+391 Turquie Parry PUGH
+Medaille de bronze :
+591 Iran Benji BULLOCK
+Medaille d'argent :
+345 Suède Ferd PITTS
+Medaille d'or :
+63 Allemagne Barton BRENNAN
+
+Competition de saut du 28/07/2024
+
+Qualifies pour la finale :
+348 Suède Conway COWAN
+349 Suède Benedict BAKER
+115 Angleterre Andrzej YANG
+209 Italie Tyrus WARD
+253 Chine Orson MACDONALD
+68 Allemagne Grove ELKINS
+394 Turquie Clayton DICKENS
+347 Suède Jefferson FLOOD
+Medaille de bronze :
+115 Angleterre Andrzej YANG
+Medaille d'argent :
+349 Suède Benedict BAKER
+Medaille d'or :
+348 Suède Conway COWAN
+
+Competition de lancer du 29/07/2024
+
+Qualifies pour la finale :
+350 Suède Barclay WRIGHT
+599 Iran Hamil FRENCH
+257 Chine Fleming BUSBY
+493 Brésil Sherman STANLEY
+598 Iran Bucky SALDANA
+547 Ukraine Clare STARR
+398 Turquie Jonas GARRETT
+256 Chine Wood ROSEN
+Medaille de bronze :
+257 Chine Fleming BUSBY
+Medaille d'argent :
+599 Iran Hamil FRENCH
+Medaille d'or :
+350 Suède Barclay WRIGHT
+
+Tournoi de foot du 29/07/2024
+
+Qualifies des groupes :
+Allemagne
+Turquie
+Iran
+Chine
+Qualifies pour la finale : 
+Turquie
+Chine
+Resultat de la petite finale (medaille de bronze) :
+Iran
+Medaille d'argent :
+Turquie
+Medaille d'or :
+Chine
+Tournoi de basket du 29/07/2024
+
+Qualifies des groupes :
+Allemagne
+USA
+Brésil
+Ukraine
+Qualifies pour la finale : 
+USA
+Brésil
+Resultat de la petite finale (medaille de bronze) :
+Allemagne
+Medaille d'argent :
+USA
+Medaille d'or :
+Brésil
+
+Tournoi de Handball du 30/07/2024
+
+Qualifies des groupes :
+Allemagne
+USA
+Brésil
+Chine
+Qualifies pour la finale : 
+Allemagne
+Brésil
+Resultat de la petite finale (medaille de bronze) :
+Chine
+Medaille d'argent :
+Brésil
+Medaille d'or :
+Allemagne
+
+Suède 3 2 0
+Allemagne 3 1 2
+Iran 1 2 2
+USA 1 2 1
+Turquie 1 1 0
+Italie 1 0 2
+Chine 1 0 2
+Angleterre 1 0 2
+Brésil 1 0 1
+Ukraine 0 2 1
+France 0 2 0
+Australie 0 1 0
+Kenya 0 0 0

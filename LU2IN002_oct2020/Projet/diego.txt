@@ -1,0 +1,9 @@
+- water polo
+- Département -> club -> 
+- joueur
+	- ailier
+	- milieu
+		- attaquant
+		- passeur
+	- gardien
+- Tournoi et Match

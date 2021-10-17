@@ -1,0 +1,22 @@
+3801002		Abdallah Sarah	 sarah.abdallah@etu.upmc.fr	14
+3802791		Afoulous Oumaima	 oumaima.afoulous@etu.sorbonne-universite.fr	15
+3803479		Besnier Lucien	 lucien.besnier@etu.upmc.fr	18
+28619891		El bouhali Mouataz	 mouataz.el_bouhali@etu.upmc.fr	18	
+28602386		Fumard Lucas	 lucas.fumard@etu.sorbonne-universite.fr	18
+28600769		Gaudinot Salomon	 salomon.gaudinot@etu.upmc.fr	18
+28600464	NP	Halit Yanis	 yanis.halit@etu.sorbonne-universite.fr	0
+28600470		Illouz Maxime	 maxime.illouz@etu.upmc.fr	19
+28600866		Le reun Louise	 louise.le_reun@etu.upmc.fr	20
+	NP	Lechgar Houssam	houssam.lechgar@etu.upmc.fr	0
+	NP	Letchumikanthan Akaren	akaren.letchumikanthan@etu.sorbonne-universite.fr	0
+3802088		Lucas Tom	 tom.lucas@etu.sorbonne-universite.fr	13
+28620155		Luo Yukai	 yukai.luo@etu.upmc.fr	15
+28609645		Macabre Loona	 loona.macabre@etu.sorbonne-universite.fr	21
+3603679	NP	Meddah Sarah	 sarah.meddah@etu.upmc.fr	0
+28610327	NP	Pelsser banales Guillaume	 guillaume.pelsser_banales@etu.sorbonne-universite.fr	0
+28606375		Ruan Thomas	 thomas.ruan@etu.upmc.fr	17
+3702213		Sadaoui Ream	 ream.sadaoui@etu.upmc.fr	20
+28600503		Singh Nawelle	 nawelle.singh@etu.upmc.fr	20
+28606343		Sun AmÉlie	 amelie.sun@etu.upmc.fr	17
+28601009		Zhang Yilu	 yilu.zhang@etu.sorbonne-universite.fr	16
+

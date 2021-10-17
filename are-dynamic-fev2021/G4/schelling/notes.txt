@@ -1,0 +1,19 @@
+ compréhension de base : 9 points
+* dynamique : 4 points
+* métrique et analyse : 4 points
+* modèle spatial : 4 points
+
+Prénom,Nom
+Eric,Futo 9 + 4 + 3 + 0.5 = 16.5
+Zakarya,Lahmadi 9 + 4 + 3 = 16
+Ousmane,Cisse 9 + 4 + 4 + 0.5 = 17.5
+Jean-Baptiste,Daumont 9 
+Thomas,De Myttenaere 9 + 4 + 3 + 2 = 18
+Marwane,Lazizi 0 (copié sur Guochen Ke)
+Houssameddine,Sensaoui 9 + 4 + 0.5 = 10 (copié sur Zakarya)
+Johan,Kobana 8 + 2 + 0.5 + 0.5 = 11
+Guochen,Ke 8
+Romain,Noda 9 + 4 + 3 = 16
+Boubacar,Ba 7 + 2 = 9
+Anais,Blasco 9 + 3 +  2 = 14
+Iona,Lehanneur 8 + 4 + 3.5 + 0.5 = 16 

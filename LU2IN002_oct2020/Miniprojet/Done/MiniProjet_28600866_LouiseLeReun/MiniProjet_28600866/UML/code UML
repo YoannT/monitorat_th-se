@@ -1,0 +1,102 @@
+class Terrain extends Ressource{
+  {static}+NBLIGNESMAX: final int = 20
+  {static}+NBCOLONNESMAX: final int = 20
+  +nbLignes: final int
+  +nbColonnes: final int
+  -tableau: Ressource[][]
+  +Terrain()
+  +Terrain(int,int)
+  +getCase(int,int): Ressource
+  +videCase(int,int): Ressource
+  +setCase(int,int,Ressource): Boolean
+  +caseEstVide(int,int): Boolean
+  +sontValides(int,int): Boolean
+  +affiche(): void
+  +toString(): String
+}
+
+class Ressource{
+  {static}-nbRessourcesCreees: int
+  +ident: final int
+  +type: final String
+  -quantite: int
+  -x: int
+  -y: int
+  +Ressource(String,int)
+  +getX(): int
+  +getY(): int
+  +getQuantite(): int
+  +setQuantite(int): void
+  +setPosition(int,int): void
+  +initialisePosition(): void
+  +toString(): String
+}
+
+class Roche extends Ressource{
+  +chance: final double
+  +Roche(String,int)
+  +clone():Roche
+  +getChance(): double
+}
+
+class Pierre extends Ressource{
+  -valeur: int
+  -type: String
+  +Pierre(String,int)
+  +getType():String
+  +getValeur():int
+}
+
+class Atelier{
+  -x:int
+  -y:iny
+  -stock:ArrayList<Pierre>
+  +Atelier(int,int,ArrayList<Pierre>)
+  +ajouterPierre(Pierre):void
+  +enleverPierre(Pierre):void
+  +getX():int
+  +getY():int
+  +getStock():ArrayList<Pierre>
+}
+
+class Mineur{
+  -x:int
+  -y:int
+  +Mineur(int,int)
+  +getX():int
+  +getY():int
+  +distance(int,int):int
+  +seDeplacer(int,int):void
+}
+
+class Simulation{
+  -terrain:Terrain
+  -mineur:Mineur[]
+  -ress:Ressource[]
+  -atelier:Atelier
+  -nbLignes:int
+  -nbColonnes:int
+  -nbRessource:int
+  -MAX_Q:final int
+  +Simulation(int,int,int,int)
+  +getNbRessource():int
+  +miner(Pierre):Pierre
+  +valeur():int
+  +toString():String
+  +affiche():void
+  +recolte():void
+  +poser():void
+}
+
+class Regles{
+  -Regles()
+  +afficher():void
+}
+
+Simulation o-- Regles
+Simulation o-- Atelier
+Simulation o-- Terrain
+Simulation o-- Ressource
+Simulation o-- Mineur
+Simulation o-- Roche
+Simulation o-- Pierre

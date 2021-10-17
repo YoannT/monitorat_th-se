@@ -1,0 +1,39 @@
+Essaimage abeilles:
+
+reine en place qui quitte une ruche avec un essaim d'ouvrières, comportement des essaims en fonction de l'envt. 3 jours . parmètres: envt, race des abeilles. 
+
+déplacements aléatoires pour reines et faux bourdons, ouvrière sortent de la ruche , déplacement entre deux points fixés. 
+
+programme effacé ~surprised emoji~
+
+difficultés: langue, communication dans le groupe ? utilisation de github. 
+
+présentation bof
+
+
+######
+Génétique:
+
+gène influant sur la fertilité impacte la population au fil du temps. 
+
+pas de modélisation.
+
+présentation raisonnable.
+
+############
+
+Planètes:
+
+vitesse, masses planète / étoile, distance planète / étoile, diamètre étoile, nombre de planètes, 
+
+(pas de) graphes pour savoir combien de planètes entrent en orbite. parce que fonction is_orbite ne marche pas. 
+
+vitesse initiale: vitesse d'orbite. 
+
+############
+Évolution de population:
+
+pas d'émigration / immigration. Déterminer un seuil de stabilité de taux de croissance. Lecture de
+ données, pas de modélisation. 
+
+multiplication de matrices (une matrice avec taux de fécondité + taux de survie, un vecteur avec les populations par âge), valeurs fixes. 

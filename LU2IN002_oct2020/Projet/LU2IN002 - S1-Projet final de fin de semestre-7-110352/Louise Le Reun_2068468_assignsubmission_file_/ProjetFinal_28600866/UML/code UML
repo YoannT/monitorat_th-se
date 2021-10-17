@@ -1,0 +1,151 @@
+interface Adulte{
+	+getAge(): int
+	+getNom(): String
+	+setNom(String): void
+	+tarifAnnuel(int): int
+	+vieillir(): void
+	+famille(Enfant): int
+}
+
+interface Enfant{
+	+getAge(): int
+	+getNom(): String
+	+setNom(String): void
+	+tarifAnnuel(int): int
+	+vieillir(): void
+}
+
+class Personne implements Adulte,Enfant{
+	-age: int
+	-nom : String
+	+Personne(int,String)
+	+Personne(Personne)
+	+getAge(): int
+	+getNom(): String
+	+setNom(String): void
+	+tarifAnnuel(int): int
+	+vieillir(): void
+	+famille(Enfant): int
+}
+
+class Explications{
+	-Explications()
+	+afficher():void
+	+remarqueEDT():void
+	+remarqueSport():void
+}
+
+abstract class Sport{
+	#nbJoueur: int
+	#jour: String
+	#nom: String
+	#equipe1: ArrayList<Personne>
+	#equipe2: ArrayList<Personne>
+	#Sport(int,String,String)
+	+getNbJoueur():int
+	+getJour():String
+	+getNom():String
+	+abstract toString():String
+	+abstract match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+abstract class SportInterieur extends Sport{
+	#salleEstLibre: boolean
+	#SportInterieur(int,String,String,boolean)
+	+toString():String
+	+libereSalle():void
+	+getSalleEstLibre():boolean
+}
+
+abstract class SportExterieur extends Sport{
+	#meteo: String
+	#SportExterieur(int,String,String,String)
+	+toString():String
+	+getMeteo():String
+	+vetements(String):void
+}
+
+class Handball extends SportInterieur{
+	+Handball(int,String,String,boolean)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+class Basket extends SportInterieur{
+	+Basket(int,String,String,boolean)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+class Tennis extends SportInterieur{
+	+Tennis(int,String,String,boolean)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+class Football extends SportExterieur{
+	+Football(int,String,String,String)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+class Rugby extends SportExterieur{
+	+Rugby(int,String,String,String)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+class CourseRelais extends SportExterieur{
+	+CourseRelais(int,String,String,String)
+	+ajouterEquipe(Personne):void
+	+getEquipe1():ArrayList<Personne>
+	+getEquipe2():ArrayList<Personne>
+	+afficheEquipe(ArrayList<Personne>):void
+	+match(ArrayList<Personne>,ArrayList<Personne>):String
+}
+
+class Gestion{
+	+adherents: ArrayList<Personne>
+	+NBLIGNES:final int =4
+	+NBCOLONNES:final int=7
+	+edt:String[][]
+	{static}-instance:Gestion
+	-Gestion(ArrayList<Personne>)
+	{static}+getInstance(ArrayList<Personne>):Gestion
+	+afficheAdherent():void
+	+afficher():void
+	+getCase(int,int):String
+	+setCase(int,int,String):void
+	+videCase(int,int):void
+	+chiffreAffaire(ArrayList<Personne>):int
+	+abonnement(Personne):void
+	+desabonnement(Personne):void
+}
+
+class ErrAge extends Exception{
+	ErrAge(String)
+}
+
+class ErrEquipe extends Exception{
+	ErrEquipe(String)
+}
+
+Gestion o-- Explications
+Gestion o-- Personne
+Gestion o-- Sport
+Gestion o-- ErrAge
+Gestion o-- ErrEquipe

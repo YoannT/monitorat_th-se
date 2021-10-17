@@ -1,0 +1,98 @@
+ABSENTS:
+Anastasia Azmoudeh
+Idir Belkhir
+Fan Zhang
+
+####################################
+
+- Alex Zuo / Solal Pamphile
+
+étoile ok
+
+déterminisation ok
+
+pas union
+
+intersection ok 
+
+########################
+
+- Maximilien Morin / Mahdi Youssef Benoumechiara
+
+déterminisation marche pas
+
+étoile ok 
+
+intersection ok
+
+complementaire ok
+
+complete ok
+
+#######################
+
+- Elouan / Michaela
+
+Pas déterminisation
+
+complementaire ok
+
+pas de test
+
+pas beaucoup de fonctions faites
+
+###############################
+
+- Alexandre Haudebourg
+
+
+pas déterminisation
+
+complementaire ok
+
+intersection marche pas mais explication ok 
+
+complet ok 
+
+###############################
+
+- François Heng
+
+fait que jusqu'à succ
+
+##################################
+
+- Romain Le Bideau
+
+déterminisation ok 
+
+intersection bizarre mais marche peut-être
+
+étoile ok 
+
+####################################
+
+- Christine Chen
+
+tout fait sauf étoile et union
+
+déterminisation ok
+
+concatenation ok
+
+intersection ok 
+
+#####################################
+
+
+- Elie Yaiche
+
+fait mais avec intervention extérieure (il me l'a dit lui-même)
+
+déterminisation pas fait lui-même 
+
+pas capable d'expliquer la concaténation
+
+pas capable d'expliquer complémentaire
+
+-> 0 au projet je pense ?

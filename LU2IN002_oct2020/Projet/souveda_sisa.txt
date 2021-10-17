@@ -1,0 +1,9 @@
+gestion club de sport
+- abstract classe Personne, nom prénom id
+	- Joueur
+		- Attaquant
+		- Défenseur
+	- Entraîneur
+- classe Match: deux équipes , entraîneurs
+- interface club ? -> personnes et scores 
+- classe Score: score numéro 1, score numéro 2

@@ -1,0 +1,13 @@
+CompetitionBoxe
+CompetitionJudo
+CompetitionLutte
+CompetitionTaekwondo
+CompetitionTrampoline
+CompetitionGymnastiqueRythmique
+CompetitionGymnastiqueArtistique
+CompetitionCourse
+CompetitionSaut
+CompetitionLancer
+TournoiFoot
+TournoiBasket
+TournoiHandball
